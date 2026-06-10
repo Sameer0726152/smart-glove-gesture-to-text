@@ -2,7 +2,7 @@
 
 > A wearable assistive technology device that converts hand gestures into readable text in real time — bridging the communication gap for deaf and mute individuals.
 
-![Project Banner](images/glove_prototype.jpg)
+![Project Banner](images/glove_prototype.png)
 
 ## 📌 Overview
 
@@ -203,7 +203,7 @@ git clone https://github.com/Sameer0726152/smart-glove-gesture-to-text.git
 
 ## 🔮 Future Scope
 
-- Full word and phrase mapping beyond single letters
+- Full word and phrase mapping beyond single letters	
 - Speech synthesis module for audio output
 - Bluetooth / Wi-Fi integration to send text to smartphone
 - Machine learning for adaptive thresholds and complex gestures
