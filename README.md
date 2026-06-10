@@ -2,6 +2,8 @@
 
 > A wearable assistive technology device that converts hand gestures into readable text in real time — bridging the communication gap for deaf and mute individuals.
 
+![Project Banner](images/glove_prototype.jpg)
+
 ## 📌 Overview
 
 The **Smart Glove** is a low-cost, portable, wearable system that detects finger bending patterns using flex sensors and translates them into alphabet letters displayed on a 16×2 LCD screen. Each unique combination of bent and straight fingers forms a 5-bit binary code that maps to a specific letter (A–Z), enabling real-time gesture-to-text communication.
