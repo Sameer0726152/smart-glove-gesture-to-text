@@ -2,7 +2,7 @@
 
 > A wearable assistive technology device that converts hand gestures into readable text in real time — bridging the communication gap for deaf and mute individuals.
 
-![Project Banner](images/glove_prototype.png)
+![Project Banner](Images/glove_prototype.png)
 
 ## 📌 Overview
 
