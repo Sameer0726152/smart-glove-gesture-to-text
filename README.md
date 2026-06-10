@@ -22,7 +22,7 @@ This project was developed as part of the **Community Engagement Project (SE, 1s
 | Sameer Talekar | SAI&DA18 |
 
 **Project Guide:** Mrs. Chetana Shravage  
-**HOD AI & DS:** Dr. D. R. Dhotre
+**HOD AI & DS:** Mrs. Shubhangi Vairagar
 
 ---
 
@@ -220,7 +220,7 @@ This project is submitted for academic purposes at Dr. D. Y. Patil Institute of 
 
 ## 🙏 Acknowledgements
 
-We sincerely thank **Mrs. Chetana Shravage** for her expert guidance, constant support, and encouragement throughout this project. We also thank **Dr. D. R. Dhotre** (HOD, AI & DS) for his support.
+We sincerely thank **Mrs. Chetana Shravage** for her expert guidance, constant support, and encouragement throughout this project. We also thank **Mrs. Shubhangi Vairagar** (HOD, AI & DS) for his support.
 
 ---
 
